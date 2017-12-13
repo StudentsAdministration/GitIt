@@ -7,3 +7,7 @@
 * [Download](https://github.com/jlord/git-it-electron/releases)
 
 ![Git-it](https://cloud.githubusercontent.com/assets/1305617/14594613/23873f64-04ed-11e6-9d3b-72f424dd0842.png)
+
+
+
+_<div align="right">&copy; clbo@kea.dk</div>_
